@@ -2,5 +2,6 @@
     <string name="app_name">Notifica Feira</string>
     <string name="label_principal">Olá Mundo</string>
     <string name="botao_principal">Clique Aqui</string>
+    <string name="label_segunda" >Segunda Activity</string>
 
 </resources>
